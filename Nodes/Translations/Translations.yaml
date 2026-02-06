@@ -11,7 +11,7 @@ Children:
     "Type": 12,
     "Dimensions": [115,4],
     "Body": [
-     "Key","en-US","it-IT","zh-CN",
+     "","en-US","it-IT","zh-CN",
      "InAlarmConfirmed","In Alarm - Confirmed","In allarme - Confermato","活动报警 - 已证实",
      "NormalUnacked","Normal - Unacked","Normale - Non riconosciuto","正常 - 未确认",
      "ShelveDuration","Shelve Duration","Durata sospensione","搁置持续时间",
