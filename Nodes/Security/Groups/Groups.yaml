@@ -1,0 +1,9 @@
+Name: Groups
+Type: GroupsCategoryFolder
+Children:
+- Name: OperatorGroup
+  Id: g=5ce9aedbc7399f84f7c65e6ac6fe2925
+  Type: GroupType
+- Name: SupervisorGroup
+  Id: g=b30039e94a97596bed548434d44b944e
+  Type: GroupType

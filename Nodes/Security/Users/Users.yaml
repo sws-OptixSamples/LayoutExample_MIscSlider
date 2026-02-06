@@ -1,0 +1,17 @@
+Name: Users
+Id: g=8cdfe95c558e909385d4fe7ddc9a2655
+Type: UsersCategoryFolder
+Children:
+- Name: OptixOperator
+  Id: g=ce2cde7626fb26c3747ec015bb6439fc
+  Type: UserType
+  Children:
+  - Class: Reference
+    Type: HasGroup
+    Target: g=5ce9aedbc7399f84f7c65e6ac6fe2925
+- Name: OptixSupervisor
+  Type: UserType
+  Children:
+  - Class: Reference
+    Type: HasGroup
+    Target: g=b30039e94a97596bed548434d44b944e

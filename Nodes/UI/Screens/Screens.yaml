@@ -1,0 +1,5 @@
+Name: Screens
+Type: ScreensCategoryFolder
+Children:
+- File: FullScreen/FullScreen.yaml
+- File: OnTop/OnTop.yaml

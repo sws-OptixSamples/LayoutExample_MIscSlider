@@ -1,0 +1,5 @@
+Name: RA_UI_Types
+Type: FolderType
+Children:
+- File: LoginForm/LoginForm.yaml
+- File: AlarmWidgets/AlarmWidgets.yaml

@@ -1,0 +1,15 @@
+Name: AlarmTriggerBools
+Type: FolderType
+Children:
+- Name: AlarmVariable1
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: AlarmVariable2
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: AlarmVariable3
+  Type: BaseDataVariableType
+  DataType: Int32
+- Name: AlarmVariable4
+  Type: BaseDataVariableType
+  DataType: Int32
