@@ -330,11 +330,6 @@ Children:
     Type: BaseDataVariableType
     DataType: Size
     Value: 600.0
-  - Name: Caption
-    Type: BaseDataVariableType
-    DataType: String
-    ModellingRule: Optional
-    Value: "PSB Example Layout Project"
   - Name: HorizontalLayout1
     Type: RowLayout
     Children:
@@ -4984,6 +4979,14 @@ Children:
       Type: PropertyType
       DataType: NodePointerNodeClass
       ModellingRule: Optional
+  - Name: Caption
+    Type: BaseDataVariableType
+    DataType: String
+    Children:
+    - Name: DynamicLink
+      Type: DynamicLink
+      DataType: NodePath
+      Value: "/Objects/LayoutExample_MIscSlider@BrowseName"
 - File: Screens/Screens.yaml
 - File: Custom_UI_Types/Custom_UI_Types.yaml
 - File: RA_UI_Types/RA_UI_Types.yaml
